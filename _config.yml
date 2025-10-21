@@ -1,0 +1,20 @@
+# SELinux GitHub Pages Configuration
+
+# default page settings
+title: The SELinux Project
+description: Official website of the upstream SELinux project
+show_downloads: false
+
+# slate theme provided by github
+#  -> https://pages-themes.github.io/slate
+remote_theme: pages-themes/slate@v0.2.0
+
+# github overrides
+github:
+  owner_name: community of developers
+  owner_url: https://github.com/SELinuxProject
+  repository_url: https://github.com/SELinuxProject
+
+# plugins
+plugins:
+- jekyll-remote-theme
