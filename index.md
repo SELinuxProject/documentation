@@ -37,7 +37,7 @@ The easiest way to get started with using or developing SELinux is to install a 
 ### General
 
 * [The SELinux Notebook](https://github.com/selinuxproject/selinux-notebook) is an upstream technical reference on SELinux, both kernel and userspace.
-* * [Presentations and Papers](https://github.com/SELinuxProject/selinux/wiki/Presentations-and-Papers) provides links to a number of technical SELinux presentations and papers spanning its development.
+* [Presentations and Papers](https://github.com/SELinuxProject/selinux/wiki/Presentations-and-Papers) provides links to a number of technical SELinux presentations and papers spanning its development.
 
 ### Kernel developers
 
