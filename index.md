@@ -43,6 +43,7 @@ The easiest way to get started with using or developing SELinux is to install a 
 
 * [SELinux kernel README](https://github.com/SELinuxProject/selinux-kernel/blob/main/README.md)
 * [SELinux kernel wiki](https://github.com/selinuxproject/selinux-kernel/wiki)
+* [SELinux kernel Getting Started guide](https://github.com/SELinuxProject/selinux-kernel/wiki/Getting-Started)
 * [Paul Moore's blog (SELinux kernel maintainer)](https://www.paul-moore.com/blog/)
 * [Linux kernel documentation](https://www.kernel.org/doc/html/latest/index.html)
 * [Linux source code cross referencer](https://elixir.bootlin.com/linux/latest/source)
@@ -51,3 +52,4 @@ The easiest way to get started with using or developing SELinux is to install a 
 
 * [SELinux userspace README](https://github.com/SELinuxProject/selinux/blob/main/README.md)
 * [SELinux userspace wiki](https://github.com/selinuxproject/selinux/wiki)
+* [SELinux userspace Contributing guide](https://github.com/SELinuxProject/selinux/wiki/Contributing)
